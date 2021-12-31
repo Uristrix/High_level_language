@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/SLAU.cpp
+SLAU.h
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/SLAU.h
+iostream
+-
+
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/SLAU.h
+matrix.h
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/matrix.h
+vector
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/vector
+
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/main.cpp
+iostream
+-
+SLAU.h
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/SLAU.h
+
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/matrix.cpp
+cmath
+-
+matrix.h
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/matrix.h
+
+C:/Users/mrlux/Desktop/High_level_language/7 Matrix/matrix.h
+iostream
+-
+

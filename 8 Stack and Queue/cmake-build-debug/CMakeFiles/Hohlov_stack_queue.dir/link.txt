@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Hohlov_stack_queue.dir/objects.a
+C:\PROGRA~2\MinGW\bin\ar.exe cr CMakeFiles\Hohlov_stack_queue.dir/objects.a @CMakeFiles\Hohlov_stack_queue.dir\objects1.rsp
+C:\PROGRA~2\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Hohlov_stack_queue.dir/objects.a -Wl,--no-whole-archive  -o Hohlov_stack_queue.exe -Wl,--out-implib,libHohlov_stack_queue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hohlov_stack_queue.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/mrlux/Desktop/High_level_language/2 lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mrlux/Desktop/High_level_language/2 lab/cmake-build-debug/CMakeFiles/2_lab.dir
+C:/Users/mrlux/Desktop/High_level_language/2 lab/cmake-build-debug/CMakeFiles/edit_cache.dir

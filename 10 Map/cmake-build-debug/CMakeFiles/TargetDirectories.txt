@@ -1,0 +1,3 @@
+C:/Users/mrlux/Desktop/High_level_language/10 Map/cmake-build-debug/CMakeFiles/map.dir
+C:/Users/mrlux/Desktop/High_level_language/10 Map/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mrlux/Desktop/High_level_language/10 Map/cmake-build-debug/CMakeFiles/rebuild_cache.dir

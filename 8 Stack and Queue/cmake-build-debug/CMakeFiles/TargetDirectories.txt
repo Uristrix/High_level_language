@@ -1,0 +1,3 @@
+C:/Users/mrlux/Desktop/High_level_language/8 Stack and Queue/cmake-build-debug/CMakeFiles/stack_queue.dir
+C:/Users/mrlux/Desktop/High_level_language/8 Stack and Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mrlux/Desktop/High_level_language/8 Stack and Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
